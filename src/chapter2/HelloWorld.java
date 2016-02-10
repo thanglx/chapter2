@@ -11,6 +11,8 @@ import java.lang.*;
  *
  * @author laxuanthang
  */
+
+// Another new line goes here
 public class HelloWorld {
 
     /**
