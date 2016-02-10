@@ -7,6 +7,7 @@ package chapter2;
 import java.lang.*;
 
 // New line - to check Git repository
+// Another new line
 /**
  *
  * @author laxuanthang
